@@ -1,6 +1,6 @@
 # 👨‍💻 Portafolio Personal
 
-!(Introduccion.png)
+![](Introduccion.png)
 
 ## 🏠 Inicio
 

@@ -102,35 +102,34 @@ No Disponible
 
 ---
 
-## 2. 🚗 Sistema de Gestión de Parqueadero
+## 2. 🎓 Sistema de Gestión de Estudiantes y Notas 
 
-### Descripción
+### Descripción 
 
-Sistema diseñado para gestionar la información de un parqueadero, incluyendo clientes, vehículos, empleados, espacios, tarifas, servicios y mensualidades.
+Proyecto desarrollado para gestionar información académica de estudiantes mediante una aplicación web. El sistema permite registrar estudiantes con sus datos personales y académicos, además de agregar notas, descripciones y porcentajes de evaluación. La información se organiza en una tabla para facilitar la consulta y gestión de los estudiantes y sus resultados académicos. 
 
 ### Tecnologías utilizadas
 
-- Java
-- MySQL
-- HTML
-- CSS
-- Git
-- GitHub
+ - HTML5 
+ - CSS3 
+ - JavaScript 
+ - Font Awesome 
+ 
+ ### Funcionalidades 
 
-### Funcionalidades
+ - Registro de estudiantes 
+ - Registro de identificación 
+ - Registro de nombre y edad 
+ - Registro de carrera y semestre 
+ - Registro de materias 
+ - Registro de notas 
+ - Registro de descripción de las evaluaciones 
+ - Registro del porcentaje de cada evaluación 
+ - Cálculo y visualización del promedio 
+ 
+ ### 📸 Imagen del proyecto:
 
-- Gestión de clientes
-- Gestión de vehículos
-- Gestión de empleados
-- Gestión de espacios
-- Gestión de tarifas
-- Registro de servicios
-- Gestión de mensualidades
-- Control de usuarios
-
-### 📸 Imagen del proyecto
-
-No Disponible
+![Foto del Proyecto](Estudiantes.png)
 
 ### 🔗 Enlace al proyecto
 
@@ -161,7 +160,7 @@ El sistema permite registrar platos, clasificarlos según su categoría, agregar
 - Tabla para consultar la información 
 - Interfaz moderna y responsive 
 
-### 📸 Imagen del proyecto Agrega aquí una captura de pantalla del proyecto: 
+### 📸 Imagen del proyecto: 
 
 ![Foto del Proyecto](restaurante.png)
 
@@ -193,8 +192,6 @@ No Disponible
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 

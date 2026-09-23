@@ -95,7 +95,7 @@ El sistema permite controlar las entradas y salidas de productos y registrar las
 
 ### 📸 Imagen del proyecto
 
-> Agregar aquí una captura de pantalla del sistema.
+logo.jpg
 
 ### 🔗 Enlace al proyecto
 
@@ -234,3 +234,4 @@ Este portafolio y los proyectos presentados tienen fines académicos y educativo
 ---
 
 ⭐ Gracias por visitar mi portafolio.
+© 2026 - Deivid Lopez

@@ -95,7 +95,7 @@ El sistema permite controlar las entradas y salidas de productos y registrar las
 
 ### 📸 Imagen del proyecto
 
-![Foto de perfil](img/logo.jpg)
+![Foto de perfil](logo.jpg)
 
 ### 🔗 Enlace al proyecto
 

@@ -61,7 +61,6 @@ Mis principales intereses están relacionados con:
 - MySQL
 - Git
 - GitHub
-- Arduino
 
 ---
 
@@ -95,11 +94,11 @@ El sistema permite controlar las entradas y salidas de productos y registrar las
 
 ### 📸 Imagen del proyecto
 
-![Foto de perfil](logo.jpeg)
+![Foto del Proyecto](logo.jpeg)
 
 ### 🔗 Enlace al proyecto
 
-[Ver proyecto en GitHub](https://github.com/USUARIO/MiniMarket)
+No Disponible
 
 ---
 
@@ -131,50 +130,44 @@ Sistema diseñado para gestionar la información de un parqueadero, incluyendo c
 
 ### 📸 Imagen del proyecto
 
-> Agregar aquí una captura de pantalla del sistema.
+No Disponible
 
 ### 🔗 Enlace al proyecto
 
-[Ver proyecto en GitHub](https://github.com/USUARIO/Parqueadero)
+No Disponible
 
----
+## 3. 🍽️ Sistema de Menú para Restaurante 
 
-## 3. ♻️ Clasificador de Residuos con Arduino
+### Descripción 
 
-### Descripción
+Proyecto desarrollado para gestionar y organizar el menú de un restaurante mediante una interfaz web sencilla y moderna. 
+El sistema permite registrar platos, clasificarlos según su categoría, agregar una descripción, seleccionar su tamaño y establecer su precio. La información registrada se muestra en una tabla para facilitar su consulta y administración. 
 
-Proyecto desarrollado utilizando Arduino para realizar la clasificación de diferentes tipos de residuos.
+### Tecnologías utilizadas 
 
-El sistema permite clasificar residuos en categorías como plástico, papel y orgánico mediante sensores y servomotores.
+- HTML5 
+- CSS3 
+- JavaScript 
+- Font Awesome 
 
-### Tecnologías utilizadas
+### Funcionalidades 
 
-- Arduino
-- C/C++
-- Processing
-- Sensores ultrasónicos
-- Servomotores
-- Protoboard
+- Registro de platos 
+- Clasificación por categorías 
+- Registro de ingredientes y descripción 
+- Selección del tamaño del plato 
+- Registro del precio 
+- Visualización de los platos registrados 
+- Tabla para consultar la información 
+- Interfaz moderna y responsive 
 
-### Funcionalidades
+### 📸 Imagen del proyecto Agrega aquí una captura de pantalla del proyecto: 
 
-- Detección de residuos
-- Clasificación de materiales
-- Control de servomotores
-- Contador de residuos
-- Interfaz visual
-- Indicadores mediante LED
-- Sistema de alarma mediante buzzer
-
-### 📸 Imagen del proyecto
-
-> Agregar aquí una fotografía del proyecto funcionando.
+![Foto del Proyecto](restaurante.png)
 
 ### 🔗 Enlace al proyecto
 
-[Ver proyecto en GitHub](https://github.com/USUARIO/Clasificador-Residuos)
-
----
+No Disponible
 
 # 🛠️ Tecnologías y herramientas
 

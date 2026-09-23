@@ -6,7 +6,7 @@
 
 # Hola, soy Deivid Andrés López Irua 👋
 
-Soy estudiante de **Ingeniería de Sistemas**, interesado en el desarrollo de software, bases de datos, arquitectura de sistemas y nuevas tecnologías.
+Soy estudiante de **Ingeniería de Sistemas** y una persona apasionada por la tecnología, con interés en el desarrollo web y la creación de soluciones innovadoras.
 
 Me considero una persona curiosa, tranquila y con interés constante por aprender y mejorar mis conocimientos en el área de tecnología.
 
@@ -27,7 +27,6 @@ Durante mi formación académica he trabajado en diferentes proyectos relacionad
 - Inteligencia Artificial
 - Sistemas distribuidos
 - Microservicios
-- Electrónica y Arduino
 
 ### 💡 Habilidades
 
@@ -79,14 +78,9 @@ El sistema permite controlar las entradas y salidas de productos y registrar las
 ### Tecnologías utilizadas
 
 - Python
-- Flask
 - MySQL
 - HTML
 - CSS
-- JavaScript
-- Chart.js
-- Git
-- GitHub
 
 ### Funcionalidades
 
@@ -196,11 +190,6 @@ El sistema permite clasificar residuos en categorías como plástico, papel y or
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Frameworks
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ## Bases de datos
 
@@ -221,11 +210,9 @@ El sistema permite clasificar residuos en categorías como plástico, papel y or
 Actualmente estoy fortaleciendo mis conocimientos en:
 
 - Arquitectura de microservicios
-- Spring Boot
 - Desarrollo de aplicaciones web
 - Inteligencia Artificial
 - Bases de datos
-- Sistemas distribuidos
 - Git y GitHub
 
 ---
@@ -236,7 +223,7 @@ Si deseas conocer más sobre mis proyectos, puedes visitar mi perfil de GitHub.
 
 ### GitHub
 
-[Mi perfil de GitHub](https://github.com/USUARIO)
+[Mi perfil de GitHub](https://github.com/deividlopez86)
 
 ---
 
